@@ -53,7 +53,7 @@ public class number_wizard_script : MonoBehaviour
         }
         else if(Input.GetKeyDown(KeyCode.Space))
                 {
-            Debug.Log("your number has been guessed");
+            Debug.Log("Thats it i guessed your number");
             startgame();
         }
         
